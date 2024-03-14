@@ -1,4 +1,4 @@
-# musiclayer
+# musicplayer
 
 A new Flutter project.
 
