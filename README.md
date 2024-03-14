@@ -1,5 +1,4 @@
 # Basic-Music-Player
-Certainly! Here's the updated README without the bash and Arduino sections:
 
 ---
 
